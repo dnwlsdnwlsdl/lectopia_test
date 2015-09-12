@@ -1,0 +1,354 @@
+From dd12df13130bb8fe69186b5c5c35291702936222 Mon Sep 17 00:00:00 2001
+From: RanoKim <daesub0515@gmail.com>
+Date: Sat, 29 Aug 2015 11:03:04 +0900
+Subject: [PATCH] =?UTF-8?q?=EA=B9=80=EB=8C=80=EC=84=AD=EC=9D=B4=20?=
+ =?UTF-8?q?=EC=98=AC=EB=A6=B0=20=ED=8C=8C=EC=9D=BC?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+---
+ 김대섭.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 김대섭.txt
+
+diff --git a/김대섭.txt b/김대섭.txt
+new file mode 100644
+index 0000000..e69de29
+-- 
+1.9.5.msysgit.0
+
+From e89b78ed6628ee0702f8e6cb62b46959e59b21b6 Mon Sep 17 00:00:00 2001
+From: KwonGiho <shng10503@naver.com>
+Date: Sat, 29 Aug 2015 11:04:31 +0900
+Subject: [PATCH] =?UTF-8?q?=EA=B6=8C=EA=B8=B0=ED=98=B8=20=ED=8C=8C?=
+ =?UTF-8?q?=EC=9D=BC.?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+---
+ 권기호.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 권기호.txt
+
+diff --git a/권기호.txt b/권기호.txt
+new file mode 100644
+index 0000000..e69de29
+-- 
+1.9.5.msysgit.0
+
+From e89b78ed6628ee0702f8e6cb62b46959e59b21b6 Mon Sep 17 00:00:00 2001
+From: KwonGiho <shng10503@naver.com>
+Date: Sat, 29 Aug 2015 11:04:31 +0900
+Subject: [PATCH] =?UTF-8?q?=EA=B6=8C=EA=B8=B0=ED=98=B8=20=ED=8C=8C?=
+ =?UTF-8?q?=EC=9D=BC.?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+---
+ 권기호.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 권기호.txt
+
+diff --git a/권기호.txt b/권기호.txt
+new file mode 100644
+index 0000000..e69de29
+-- 
+1.9.5.msysgit.0
+
+From dd12df13130bb8fe69186b5c5c35291702936222 Mon Sep 17 00:00:00 2001
+From: RanoKim <daesub0515@gmail.com>
+Date: Sat, 29 Aug 2015 11:03:04 +0900
+Subject: [PATCH] =?UTF-8?q?=EA=B9=80=EB=8C=80=EC=84=AD=EC=9D=B4=20?=
+ =?UTF-8?q?=EC=98=AC=EB=A6=B0=20=ED=8C=8C=EC=9D=BC?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+---
+ 김대섭.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 김대섭.txt
+
+diff --git a/김대섭.txt b/김대섭.txt
+new file mode 100644
+index 0000000..e69de29
+-- 
+1.9.5.msysgit.0
+
+From e89b78ed6628ee0702f8e6cb62b46959e59b21b6 Mon Sep 17 00:00:00 2001
+From: KwonGiho <shng10503@naver.com>
+Date: Sat, 29 Aug 2015 11:04:31 +0900
+Subject: [PATCH] =?UTF-8?q?=EA=B6=8C=EA=B8=B0=ED=98=B8=20=ED=8C=8C?=
+ =?UTF-8?q?=EC=9D=BC.?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+---
+ 권기호.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 권기호.txt
+
+diff --git a/권기호.txt b/권기호.txt
+new file mode 100644
+index 0000000..e69de29
+-- 
+1.9.5.msysgit.0
+
+From dd12df13130bb8fe69186b5c5c35291702936222 Mon Sep 17 00:00:00 2001
+From: RanoKim <daesub0515@gmail.com>
+Date: Sat, 29 Aug 2015 11:03:04 +0900
+Subject: [PATCH] =?UTF-8?q?=EA=B9=80=EB=8C=80=EC=84=AD=EC=9D=B4=20?=
+ =?UTF-8?q?=EC=98=AC=EB=A6=B0=20=ED=8C=8C=EC=9D=BC?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+---
+ 김대섭.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 김대섭.txt
+
+diff --git a/김대섭.txt b/김대섭.txt
+new file mode 100644
+index 0000000..e69de29
+-- 
+1.9.5.msysgit.0
+
+From 01177565a084e75dc3fa451aa9649ead41937f44 Mon Sep 17 00:00:00 2001
+From: javaproJy <nbk0228@naver.com>
+Date: Sat, 29 Aug 2015 10:58:15 +0900
+Subject: [PATCH] =?UTF-8?q?=EC=9E=A5=EC=9E=AC=EC=98=812?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+---
+ 장재영2.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 장재영2.txt
+
+diff --git a/장재영2.txt b/장재영2.txt
+new file mode 100644
+index 0000000..e69de29
+-- 
+1.9.5.msysgit.0
+
+From bfa22af013e5f9f3ec9fd0e093d6ec444494534b Mon Sep 17 00:00:00 2001
+From: soyeon <thdus3649@gmail.com>
+Date: Sat, 29 Aug 2015 10:51:39 +0900
+Subject: [PATCH] =?UTF-8?q?=EB=B0=B0=EC=86=8C=EC=97=B0=ED=8C=8C=EC=9D=BC?=
+ =?UTF-8?q?=EC=B6=94=EA=B0=80?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+---
+ soyeon.txt | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 soyeon.txt
+
+diff --git a/soyeon.txt b/soyeon.txt
+new file mode 100644
+index 0000000..13c3fc4
+--- /dev/null
++++ b/soyeon.txt
+@@ -0,0 +1 @@
++soyeon
+\ No newline at end of file
+-- 
+1.9.5.msysgit.0
+
+From bfa22af013e5f9f3ec9fd0e093d6ec444494534b Mon Sep 17 00:00:00 2001
+From: soyeon <thdus3649@gmail.com>
+Date: Sat, 29 Aug 2015 10:51:39 +0900
+Subject: [PATCH] =?UTF-8?q?=EB=B0=B0=EC=86=8C=EC=97=B0=ED=8C=8C=EC=9D=BC?=
+ =?UTF-8?q?=EC=B6=94=EA=B0=80?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+---
+ soyeon.txt | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 soyeon.txt
+
+diff --git a/soyeon.txt b/soyeon.txt
+new file mode 100644
+index 0000000..13c3fc4
+--- /dev/null
++++ b/soyeon.txt
+@@ -0,0 +1 @@
++soyeon
+\ No newline at end of file
+-- 
+1.9.5.msysgit.0
+
+From 01177565a084e75dc3fa451aa9649ead41937f44 Mon Sep 17 00:00:00 2001
+From: javaproJy <nbk0228@naver.com>
+Date: Sat, 29 Aug 2015 10:58:15 +0900
+Subject: [PATCH] =?UTF-8?q?=EC=9E=A5=EC=9E=AC=EC=98=812?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+---
+ 장재영2.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 장재영2.txt
+
+diff --git a/장재영2.txt b/장재영2.txt
+new file mode 100644
+index 0000000..e69de29
+-- 
+1.9.5.msysgit.0
+
+From 7dbaad490815b8a0f31d3d98b8beee563429f06b Mon Sep 17 00:00:00 2001
+From: javaproJy <nbk0228@naver.com>
+Date: Sat, 29 Aug 2015 10:49:57 +0900
+Subject: [PATCH] =?UTF-8?q?=EC=9E=A5=EC=9E=AC=EC=98=81=20=ED=8C=8C?=
+ =?UTF-8?q?=EC=9D=BC=20=EC=B6=94=EA=B0=80?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+---
+ 장재영.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 장재영.txt
+
+diff --git a/장재영.txt b/장재영.txt
+new file mode 100644
+index 0000000..e69de29
+-- 
+1.9.5.msysgit.0
+
+From ff271dcb6d69e2bbf5dad9da3efa713a868d94ee Mon Sep 17 00:00:00 2001
+From: myThistle <cldbs1124@naver.com>
+Date: Sat, 29 Aug 2015 10:47:19 +0900
+Subject: [PATCH] =?UTF-8?q?=EC=9D=B4=EC=B9=98=EC=9C=A4=20=ED=8C=8C?=
+ =?UTF-8?q?=EC=9D=BC=20=EC=B6=94=EA=B0=80?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+---
+ 이치윤.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 이치윤.txt
+
+diff --git a/이치윤.txt b/이치윤.txt
+new file mode 100644
+index 0000000..e69de29
+-- 
+1.9.5.msysgit.0
+
+From bfa22af013e5f9f3ec9fd0e093d6ec444494534b Mon Sep 17 00:00:00 2001
+From: soyeon <thdus3649@gmail.com>
+Date: Sat, 29 Aug 2015 10:51:39 +0900
+Subject: [PATCH] =?UTF-8?q?=EB=B0=B0=EC=86=8C=EC=97=B0=ED=8C=8C=EC=9D=BC?=
+ =?UTF-8?q?=EC=B6=94=EA=B0=80?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+---
+ soyeon.txt | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 soyeon.txt
+
+diff --git a/soyeon.txt b/soyeon.txt
+new file mode 100644
+index 0000000..13c3fc4
+--- /dev/null
++++ b/soyeon.txt
+@@ -0,0 +1 @@
++soyeon
+\ No newline at end of file
+-- 
+1.9.5.msysgit.0
+
+From 7dbaad490815b8a0f31d3d98b8beee563429f06b Mon Sep 17 00:00:00 2001
+From: javaproJy <nbk0228@naver.com>
+Date: Sat, 29 Aug 2015 10:49:57 +0900
+Subject: [PATCH] =?UTF-8?q?=EC=9E=A5=EC=9E=AC=EC=98=81=20=ED=8C=8C?=
+ =?UTF-8?q?=EC=9D=BC=20=EC=B6=94=EA=B0=80?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+---
+ 장재영.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 장재영.txt
+
+diff --git a/장재영.txt b/장재영.txt
+new file mode 100644
+index 0000000..e69de29
+-- 
+1.9.5.msysgit.0
+
+From ff271dcb6d69e2bbf5dad9da3efa713a868d94ee Mon Sep 17 00:00:00 2001
+From: myThistle <cldbs1124@naver.com>
+Date: Sat, 29 Aug 2015 10:47:19 +0900
+Subject: [PATCH] =?UTF-8?q?=EC=9D=B4=EC=B9=98=EC=9C=A4=20=ED=8C=8C?=
+ =?UTF-8?q?=EC=9D=BC=20=EC=B6=94=EA=B0=80?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+---
+ 이치윤.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 이치윤.txt
+
+diff --git a/이치윤.txt b/이치윤.txt
+new file mode 100644
+index 0000000..e69de29
+-- 
+1.9.5.msysgit.0
+
+From d24bc434d0f29c3071874f10bd153a8a1d140205 Mon Sep 17 00:00:00 2001
+From: dnwlsdnwlsdl <dnwlsdnwlsdl@nate.com>
+Date: Sat, 29 Aug 2015 10:46:50 +0900
+Subject: [PATCH] =?UTF-8?q?=EC=8B=A0=EC=98=81=EC=9A=B0=20=ED=8C=8C?=
+ =?UTF-8?q?=EC=9D=BC=EC=B6=94=EA=B0=80?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+---
+ Andrew_Shin.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 Andrew_Shin.txt
+
+diff --git a/Andrew_Shin.txt b/Andrew_Shin.txt
+new file mode 100644
+index 0000000..e69de29
+-- 
+1.9.5.msysgit.0
+
+From 17badfa094dae6200224036d6afbe41119c458ec Mon Sep 17 00:00:00 2001
+From: dnwlsdnwlsdl <dnwlsdnwlsdl@nate.com>
+Date: Sat, 29 Aug 2015 10:17:11 +0900
+Subject: [PATCH] Initial commit
+
+---
+ README.md | 2 ++
+ 1 file changed, 2 insertions(+)
+ create mode 100644 README.md
+
+diff --git a/README.md b/README.md
+new file mode 100644
+index 0000000..1642d28
+--- /dev/null
++++ b/README.md
+@@ -0,0 +1,2 @@
++# lectopia_test
++lectopia test project
+-- 
+1.9.5.msysgit.0
+
